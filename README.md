@@ -4,15 +4,14 @@ O curso é ministrado pela equipe da One Bit Code disponibilizado gratuitamente 
 
 O que irei aprender neste curso:
 
-O que são testes e poque eles são importantes
-Como criar seu primeiro teste
-O que é RSpec e BDD
-Como integrar o Rspec e o Ruby on Rails
-Como testar models e controllers
-Como testar API's
-Como vai funcionar:
+* O que são testes e poque eles são importantes
+* Como criar seu primeiro teste
+* O que é RSpec e BDD
+* Como integrar o Rspec e o Ruby on Rails
+* Como testar models e controllers
+* Como testar API's
 
-## Sai mai no índice ou pode ir direto para o projeto clicando [aqui]():
+## Saiba mais no índice ou pode ir direto para o projeto clicando [aqui]():
 
 - [Seja bem vindo(a)](https://github.com/OsirisMariano/OBC_Rspec/issues/1)
 - [O que são testes automatizados](https://github.com/OsirisMariano/OBC_Rspec/issues/2)
