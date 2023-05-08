@@ -1,6 +1,8 @@
-## Mini curso de testes Ruby com Rspec
+# Mini curso de testes Ruby com Rspec
 
-O curso é ministrado pela equipe da One Bit Code disponibilizado gratuitamente no seu canal do [YouTube]().
+![RSpec](img/capa-minicurso-testes_1.png)
+
+O curso é ministrado pela equipe da One Bit Code disponibilizado gratuitamente no seu canal do [YouTube](https://www.youtube.com/watch?v=eb2VaG9bfSE&list=PLdDT8if5attGc3fgFsFe5cvV9MwlVFNLW&index=1&ab_channel=OneBitCode).
 
 O que irei aprender neste curso:
 
@@ -11,7 +13,7 @@ O que irei aprender neste curso:
 * Como testar models e controllers
 * Como testar API's
 
-## Saiba mais no índice ou pode ir direto para o projeto clicando [aqui]():
+## Saiba mais no índice ou pode ir direto para o projeto clicando [aqui](https://github.com/users/OsirisMariano/projects/20)
 
 - [Seja bem vindo(a)](https://github.com/OsirisMariano/OBC_Rspec/issues/1)
 - [O que são testes automatizados](https://github.com/OsirisMariano/OBC_Rspec/issues/2)
